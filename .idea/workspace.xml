@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8eeb0d39-7e3f-460a-aad1-72a45d26dc8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/btrb_proj" beforeDir="false" afterPath="$PROJECT_DIR$/btrb_proj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btrb_proj/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/btrb_proj/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btrb_proj/templates/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/btrb_proj/templates/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btrb_proj/templates/partials/_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/btrb_proj/templates/partials/_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btrb_proj/templates/partials/_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/btrb_proj/templates/partials/_navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btrb_proj/templates/partials/_topbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/btrb_proj/templates/partials/_topbar.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/btrb_proj" />
+  </component>
+  <component name="ProjectId" id="1j7IjEpNnR6EvHev2pc96bifGsC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8eeb0d39-7e3f-460a-aad1-72a45d26dc8f" name="Default Changelist" comment="" />
+      <created>1603148837147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603148837147</updated>
+      <workItem from="1603148841779" duration="36000" />
+    </task>
+    <servers />
+  </component>
+</project>
